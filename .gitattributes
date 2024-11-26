@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+animal_classification.zip filter=lfs diff=lfs merge=lfs -text
